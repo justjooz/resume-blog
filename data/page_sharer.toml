@@ -19,7 +19,7 @@
 
 [[buttons]]
   id = "email"
-  url = "mailto:?subject={title}&body={url}"
+  url = "mailto:justinchiacz@gmail.com"
   title = "Email"
   icon_pack = "fas"
   icon = "envelope"
@@ -27,7 +27,7 @@
 
 [[buttons]]
   id = "linkedin"
-  url = "https://www.linkedin.com/shareArticle?url={url}&title={title}"
+  url = "https://www.linkedin.com/in/justinchiacz/"
   title = "LinkedIn"
   icon_pack = "fab"
   icon = "linkedin-in"
