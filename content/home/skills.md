@@ -21,7 +21,7 @@ feature:
   icon_pack: fab
   name: R
 - description:
-  icon: fa-python
+  icon: python
   icon_pack: fab
   name: Python
 - description:
@@ -31,15 +31,15 @@ feature:
   
 #feature:
 - description:
-  icon: fa-cogs
+  icon: cogs
   icon_pack: fa
   name: Data Analysis Automation
 - description:
-  icon: fa-wordpress
+  icon: wordpress
   icon_pack: fab
   name: Blogging
 - description:
-  icon: fa-youtube
+  icon: youtube
   icon_pack: fab
   name: Video Editing
 
