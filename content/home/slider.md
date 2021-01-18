@@ -1,3 +1,9 @@
+---
+widget: https://wowchemy.com/docs/slider/
+widget_id: slider
+weight: 50
+active: true
+---
 widget: slider
 headless: true  # This file represents a page section.
 
