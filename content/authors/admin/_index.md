@@ -40,7 +40,7 @@ superuser: true
 highlight_name: true
 ---
 
-I'm a final-year biological sciences studying in Nanyang Technological University and a massive data enthusiast. Having self-learnt R, Python, Tableau, and SQL, I am passionate about building automation software projects that perform data analysis pipelines which reduce workload and human error. I strive to learn new technologies and I love a good data crunching session.
+I'm a final-year biological sciences studying in [Nanyang Technological University](https://www.ntu.edu.sg/Pages/home.aspx) and a massive data enthusiast. Having self-learnt R, Python, Tableau, and SQL, I am passionate about building automation software projects that perform data analysis pipelines which reduce workload and human error. I strive to learn new technologies and I love a good data crunching session.
 
 In my free time, I enjoy building up my own projects in building my own websites, GUI apps, web apps, and scripts, which all work to reduce repetitive analysis work. I also write my own poetry, create digital content on instagram, manage my own YouTube channel, and write my own bird watching blog.
 
