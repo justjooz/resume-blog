@@ -5,7 +5,7 @@ name = "Minimal"
 light = true
 
 # Primary
-primary = "#E4B15F"
+primary = "#C69A53"
 
 # Menu
 menu_primary = "#FFFFFF"
