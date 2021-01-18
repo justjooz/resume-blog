@@ -18,9 +18,9 @@ bio: I enjoy using both R and Python to automate data analysis workflows. I enjo
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Data Analytics
+- Data Analysis Automation
+- Data Visualisation Using Web Apps and GUIs
 
 # Education to show in About widget
 education:
