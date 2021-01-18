@@ -1,7 +1,7 @@
 ---
 title: Justin Chia
 role: Data Science Intern
-avatar_filename: avatar.png
+avatar_filename: avatar.jpg
 bio: I enjoy using both R and Python to automate data analysis workflows. I
   enjoy making various types of digital content in my free time too!
 interests:
