@@ -30,18 +30,18 @@ feature:
   name: Data Visualisation
   
 #feature:
-#- description:
-#  icon: fa-cogs
-#  icon_pack: fa
-#  name: Data Analysis Automation
-# - description:
-#  icon: fa-wordpress
-#  icon_pack: fab
-#  name: Blogging
-#- description:
-#  icon: fa-youtube
-#  icon_pack: fab
-#  name: Video Editing
+- description:
+  icon: fa-cogs
+  icon_pack: fa
+  name: Data Analysis Automation
+- description:
+  icon: fa-wordpress
+  icon_pack: fab
+  name: Blogging
+- description:
+  icon: fa-youtube
+  icon_pack: fab
+  name: Video Editing
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
