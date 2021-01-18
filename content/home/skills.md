@@ -28,6 +28,8 @@ feature:
   icon: chart-line
   icon_pack: fas
   name: Data Visualisation
+  
+feature:
 - description:
   icon: fa-cogs
   icon_pack: fa
