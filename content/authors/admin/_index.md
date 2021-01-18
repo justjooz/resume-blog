@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Justin Chia
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Data Science Intern
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: IMDA Singapore
+  url: https://www.imda.gov.sg/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I enjoy using both R and Python to automate data analysis workflows. I enjoy making various types of digital content in my free time too!
 
 # Interests to show in About widget
 interests:
@@ -43,12 +43,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
@@ -64,14 +58,14 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "justinchiacz@gmail.com"
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm a final-year biological sciences studying in Nanyang Technological University and a massive data enthusiast. Having self-learnt R, Python, Tableau, and SQL, I am passionate about building automation software projects that perform data analysis pipelines which reduce workload and human error. I strive to learn new technologies and I love a good data crunching session.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+In my free time, I enjoy building up my own projects in building my own websites, GUI apps, web apps, and scripts, which all work to reduce repetitive analysis work. I also write my own poetry, create digital content on instagram, manage my own YouTube channel, and write my own bird watching blog.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
