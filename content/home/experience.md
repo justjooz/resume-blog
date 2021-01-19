@@ -28,7 +28,7 @@ experience:
     location: Singapore
     date_start: '2020-12-14'
     date_end: ''
-    description: |2-
+    description: |>-
         * Developed scripts to automate data wrangling in Python using Spyder
         * Built a Python GUI app using tkinter for easy running of scripts
         * Tech used: Python, Spyder, Atom, Tkinter, Excel
@@ -39,7 +39,7 @@ experience:
     location: Singapore
     date_start: '2020-09-01'
     date_end: ''
-    description: | 2-
+    description: | >-
         * Founded and authored the blogging site: https://www.birdingoutdoors.com
         * Performed research on Google SEO and niche research
         * Self-designed blog logo on Canva and Photopea
