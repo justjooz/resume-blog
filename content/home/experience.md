@@ -22,10 +22,10 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Data Science Intern
-    company: Infocomm Media and Development Authority
+  - title: 'Data Science Intern'
+    company: 'Infocomm Media and Development Authority'
     company_url: 'www.imda.gov.sg/'
-    location: Singapore
+    location: 'Singapore'
     date_start: '2020-12-14'
     date_end: ''
     description: |>-
@@ -33,10 +33,10 @@ experience:
         * Built a Python GUI app using tkinter for easy running of scripts
         * Tech used: Python, Spyder, Atom, Tkinter, Excel
         
-  - title: Founding Author
-    company: Birding Outdoors
+  - title: 'Founding Author'
+    company: 'Birding Outdoors'
     company_url: 'https://birdingoutdoors.com/'
-    location: Singapore
+    location: 'Singapore'
     date_start: '2020-09-01'
     date_end: '2020-12-13'
     description: | >-
