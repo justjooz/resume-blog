@@ -29,9 +29,10 @@ experience:
     date_start: '2020-12-14'
     date_end: ''
     description: >-
-        Responsibilities include:
         * Developed scripts to automate data wrangling in Python using Spyder
+        
         * Built a Python GUI app using tkinter for easy running of scripts
+        
         * Tech used: Python, Spyder, Atom, Tkinter, Excel
         
   - title: 'Founding Author'
@@ -41,9 +42,11 @@ experience:
     date_start: '2020-09-01'
     date_end: '2020-12-13'
     description: >-
-        Responsibilities include:
         * Founded and authored the blogging site: https://www.birdingoutdoors.com
+        
         * Performed research on Google SEO and niche research
+        
         * Self-designed blog logo on Canva and Photopea
+        
         * Self-wrote more than 30 articles based on Google SEO on Wordpress
 ---
