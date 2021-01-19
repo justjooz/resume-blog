@@ -38,7 +38,7 @@ experience:
     company_url: 'https://birdingoutdoors.com/'
     location: Singapore
     date_start: '2020-09-01'
-    date_end: ''
+    date_end: '2020-12-13'
     description: | >-
         * Founded and authored the blogging site: https://www.birdingoutdoors.com
         * Performed research on Google SEO and niche research
