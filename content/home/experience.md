@@ -28,7 +28,7 @@ experience:
     location: 'Singapore'
     date_start: '2020-12-14'
     date_end: ''
-    description: >-
+    description: |3-
         * Developed scripts to automate data wrangling in Python using Spyder
         
         * Built a Python GUI app using tkinter for easy running of scripts
@@ -56,7 +56,7 @@ experience:
     location: 'Singapore'
     date_start: '2020-04-01'
     date_end: '2020-08-31'
-    description: >-
+    description: |6-
         * Produced up to 50 posts of creative and encouraging content on Instagram
         
         * Created art and creative content through various content creation platforms including Canva, Procreate, iMovie, and Adobe Photoshop Sketch
@@ -75,7 +75,7 @@ experience:
     location: 'Singapore'
     date_start: '2020-03-01'
     date_end: '2020-08-01'
-    description: >-
+    description: |5-
         * Successfully used R to automate the creation of 67 Nursing Home Reports with 1000+ graphs which led to a 90% decrease in report generation time
         
         * Performed extensive statistical research and testing on survey data
@@ -92,7 +92,7 @@ experience:
     location: 'Singapore'
     date_start: '2019-12-01'
     date_end: '2020-02-01'
-    description: >-
+    description: |7-
     Health Services Research Centre, SingHealth/Duke-NUS Medical School
         * Wrote the documentation and code of a new R package to be used as a clinical prediction tool
         
@@ -114,7 +114,7 @@ experience:
     location: 'Singapore'
     date_start: '2017-08-01'
     date_end: '2018-08-01'
-    description: >-
+    description: |10-
         * Oversaw the management of over 300 committee members
         
         * Handled welfare concerns of the students
