@@ -72,7 +72,7 @@ experience:
     company_url: 'https://www.duke-nus.edu.sg/'
     location: 'Singapore'
     date_start: '2019-12-01'
-    date_end: '2020-02-31'
+    date_end: '2020-02-29'
     description: >-
     Health Services Research Centre, SingHealth/Duke-NUS Medical School
         * Wrote the documentation and code of a new R package to be used as a clinical prediction tool
