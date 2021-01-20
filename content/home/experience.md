@@ -49,7 +49,7 @@ experience:
         * Self-designed blog logo on Canva and Photopea
         
         * Self-wrote more than 30 articles based on Google SEO on Wordpress
-  
+        
    - title: 'Digital Creator'
     company: 'Yonah Creative'
     company_url: 'https://www.instagram.com/yonah.creative/'
@@ -85,7 +85,7 @@ experience:
         * Produced a resource guide and infographics in Canva for nursing homes to follow up on the reports received
         
         * Software utilised: R Programming Language, OfficeR package, ggplot2 package, dplyr package, Canva, Microsoft Excel, Microsoft PowerPoint
-
+        
   - title: 'Data Visualisation Intern'
     company: 'Duke-NUS Medical School/SingHealth'
     company_url: 'https://www.duke-nus.edu.sg/'
@@ -107,7 +107,7 @@ experience:
         * Recommended relevant improvements to code
         
         * See recommendation letter [here](https://www.linkedin.com/in/justinchiacz/detail/treasury/position:1549444656/?entityUrn=urn%3Ali%3Afsd_profileTreasuryMedia%3A(ACoAABhdhBABslPNFcwNMpC8TCZgG3gQLDnlFNc%2C1588551251533)&section=position%3A1549444656&treasuryCount=1)
-
+        
   - title: 'President and Honorary General Secretary'
     company: 'Biological Sciences Club'
     company_url: ''
