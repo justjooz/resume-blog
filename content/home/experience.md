@@ -49,8 +49,8 @@ experience:
         * Self-designed blog logo on Canva and Photopea
         
         * Self-wrote more than 30 articles based on Google SEO on Wordpress
-
-  - title: 'Digital Creator'
+        
+   - title: 'Digital Creator'
     company: 'Yonah Creative'
     company_url: 'https://www.instagram.com/yonah.creative/'
     location: 'Singapore'
@@ -58,10 +58,15 @@ experience:
     date_end: '2020-12-01'
     description: >-
         * Produced up to 50 posts of creative and encouraging content on Instagram
+        
         * Created art and creative content through various content creation platforms including Canva, Procreate, iMovie, and Adobe Photoshop Sketch
+        
         * Implemented Instagram growth hacking using hashtag strategies and appropriate niche targeting
+        
         * Successfully grew a following of 117 followers within 4 months
+        
         * Implemented basic principles of design and aesthetics to suit the feel of the page
+        
         * Published several posts of a self-coded blog using blogdown in R
         
   - title: 'Data Analytics & Quality Intern'
