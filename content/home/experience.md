@@ -50,6 +50,21 @@ experience:
         
         * Self-wrote more than 30 articles based on Google SEO on Wordpress
         
+  - title: 'Founding Author'
+    company: 'Birding Outdoors'
+    company_url: 'https://birdingoutdoors.com/'
+    location: 'Singapore'
+    date_start: '2020-09-01'
+    date_end: '2021-12-13'
+    description: >-
+        * Founded and authored the blogging site: [Birding Outdoors](https://www.birdingoutdoors.com)
+        
+        * Performed research on Google SEO and niche research
+        
+        * Self-designed blog logo on Canva and Photopea
+        
+        * Self-wrote more than 30 articles based on Google SEO on Wordpress  
+  
    - title: 'Digital Creator'
     company: 'Yonah Creative'
     company_url: 'https://www.instagram.com/yonah.creative/'
