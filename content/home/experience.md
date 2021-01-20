@@ -28,7 +28,7 @@ experience:
     location: 'Singapore'
     date_start: '2020-12-14'
     date_end: ''
-    description: |3-
+    description: >-
         * Developed scripts to automate data wrangling in Python using Spyder
         
         * Built a Python GUI app using tkinter for easy running of scripts
@@ -41,7 +41,7 @@ experience:
     location: 'Singapore'
     date_start: '2020-09-01'
     date_end: '2021-12-13'
-    description: |4-
+    description: >-
         * Founded and authored the blogging site: [Birding Outdoors](https://www.birdingoutdoors.com)
         
         * Performed research on Google SEO and niche research
@@ -56,7 +56,7 @@ experience:
     location: 'Singapore'
     date_start: '2020-04-01'
     date_end: '2020-08-31'
-    description: |6-
+    description: >-
         * Produced up to 50 posts of creative and encouraging content on Instagram
         
         * Created art and creative content through various content creation platforms including Canva, Procreate, iMovie, and Adobe Photoshop Sketch
