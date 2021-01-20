@@ -50,7 +50,7 @@ experience:
         
         * Self-wrote more than 30 articles based on Google SEO on Wordpress
         
-   - title: 'Digital Creator'
+  - title: 'Digital Creator'
     company: 'Yonah Creative'
     company_url: 'https://www.instagram.com/yonah.creative/'
     location: 'Singapore'
