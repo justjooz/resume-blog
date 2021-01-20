@@ -50,31 +50,12 @@ experience:
         
         * Self-wrote more than 30 articles based on Google SEO on Wordpress
         
-  - title: 'Digital Creator'
-    company: 'Yonah Creative'
-    company_url: 'https://www.instagram.com/yonah.creative/'
-    location: 'Singapore'
-    date_start: '2020-04-01'
-    date_end: '2020-08-31'
-    description: >-
-        * Produced up to 50 posts of creative and encouraging content on Instagram
-        
-        * Created art and creative content through various content creation platforms including Canva, Procreate, iMovie, and Adobe Photoshop Sketch
-        
-        * Implemented Instagram growth hacking using hashtag strategies and appropriate niche targeting
-        
-        * Successfully grew a following of 117 followers within 4 months
-        
-        * Implemented basic principles of design and aesthetics to suit the feel of the page
-        
-        * Published several posts of a self-coded blog using blogdown in R
-        
   - title: 'Data Analytics & Quality Intern'
     company: 'Agency For Integrated Care'
     company_url: 'https://www.instagram.com/yonah.creative/'
     location: 'Singapore'
     date_start: '2020-03-01'
-    date_end: '2020-08-01'
+    date_end: '2020-08-31'
     description: >-
         * Successfully used R to automate the creation of 67 Nursing Home Reports with 1000+ graphs which led to a 90% decrease in report generation time
         
@@ -91,7 +72,7 @@ experience:
     company_url: 'https://www.duke-nus.edu.sg/'
     location: 'Singapore'
     date_start: '2019-12-01'
-    date_end: '2020-02-01'
+    date_end: '2020-02-31'
     description: >-
     Health Services Research Centre, SingHealth/Duke-NUS Medical School
         * Wrote the documentation and code of a new R package to be used as a clinical prediction tool
