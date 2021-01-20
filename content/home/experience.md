@@ -70,7 +70,7 @@ experience:
     company_url: 'https://www.instagram.com/yonah.creative/'
     location: 'Singapore'
     date_start: '2020-04-01'
-    date_end: '2020-12-01'
+    date_end: '2020-08-31'
     description: >-
         * Produced up to 50 posts of creative and encouraging content on Instagram
         
@@ -92,37 +92,14 @@ experience:
     date_end: '2020-08-01'
     description: >-
         * Successfully used R to automate the creation of 67 Nursing Home Reports with 1000+ graphs which led to a 90% decrease in report generation time
+        
         * Performed extensive statistical research and testing on survey data
+        
         * Performed simple data cleaning, PivotTables and VLOOKUP functions in Excel
+        
         * Produced a resource guide and infographics in Canva for nursing homes to follow up on the reports received
+        
         * Software utilised: R Programming Language, OfficeR package, ggplot2 package, dplyr package, Canva, Microsoft Excel, Microsoft PowerPoint
-
-  - title: 'President and Honorary General Secretary'
-    company: 'Biological Sciences Club'
-    company_url: ''
-    location: 'Singapore'
-    date_start: '2017-08-01'
-    date_end: '2021-08-01'
-    description: >-
-        * Oversaw the management of over 300 committee members
-
-        * Handled welfare concerns of the students
-        
-        * Gathered academic concerns and feedback from the students and relaying it to the school management
-        
-        * Connected frequently with alumni to maintain student-alumni relations
-
-        * Piloted online student engagement initiatives through platforms such as a club webpage, LinkedIn and Telegram channels
-
-        * Managed 2 separate sub-clubs: Youth Expedition Project (YEP) Committee and Freshmen Orientation Programme (FOP) Committee
-
-        * Kick-started a Bio-Hackathon Committee to promote digital transformation in student’s lives through big data
-        
-        * Managed professional email correspondence with over 10 external parties
-        
-        * Crafted publicity emails to engage the student community of over 1000 students
-        
-        * Designed exclusive jacket and tshirt merchandise for students using Canva and Photopea
 
   - title: 'Data Visualisation Intern'
     company: 'Duke-NUS Medical School/SingHealth'
@@ -145,4 +122,31 @@ experience:
         * Recommended relevant improvements to code
         
         * See recommendation letter [here](https://www.linkedin.com/in/justinchiacz/detail/treasury/position:1549444656/?entityUrn=urn%3Ali%3Afsd_profileTreasuryMedia%3A(ACoAABhdhBABslPNFcwNMpC8TCZgG3gQLDnlFNc%2C1588551251533)&section=position%3A1549444656&treasuryCount=1)
+
+  - title: 'President and Honorary General Secretary'
+    company: 'Biological Sciences Club'
+    company_url: ''
+    location: 'Singapore'
+    date_start: '2017-08-01'
+    date_end: '2018-08-01'
+    description: >-
+        * Oversaw the management of over 300 committee members
+        
+        * Handled welfare concerns of the students
+        
+        * Gathered academic concerns and feedback from the students and relaying it to the school management
+        
+        * Connected frequently with alumni to maintain student-alumni relations
+        
+        * Piloted online student engagement initiatives through platforms such as a club webpage, LinkedIn and Telegram channels
+        
+        * Managed 2 separate sub-clubs: Youth Expedition Project (YEP) Committee and Freshmen Orientation Programme (FOP) Committee
+        
+        * Kick-started a Bio-Hackathon Committee to promote digital transformation in student’s lives through big data
+        
+        * Managed professional email correspondence with over 10 external parties
+        
+        * Crafted publicity emails to engage the student community of over 1000 students
+        
+        * Designed exclusive jacket and tshirt merchandise for students using Canva and Photopea
 ---
