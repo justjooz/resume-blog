@@ -40,7 +40,7 @@ experience:
     company_url: 'https://birdingoutdoors.com/'
     location: 'Singapore'
     date_start: '2020-09-01'
-    date_end: '2021-12-13'
+    date_end: ''
     description: >-
         * Founded and authored the blogging site: [Birding Outdoors](https://www.birdingoutdoors.com)
         
