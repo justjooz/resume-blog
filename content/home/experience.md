@@ -76,7 +76,7 @@ experience:
     date_start: '2020-03-01'
     date_end: '2020-08-01'
     description: >-
-    Under: Quality and Productivity Division
+    Quality and Productivity Division
 
         * Successfully used R to automate the creation of 67 Nursing Home Reports with 1000+ graphs which led to a 90% decrease in report generation time
         
@@ -122,7 +122,7 @@ experience:
     date_start: '2019-12-01'
     date_end: '2020-02-01'
     description: >-
-    Under: Health Services Research Centre, SingHealth/Duke-NUS Medical School
+    Health Services Research Centre, SingHealth/Duke-NUS Medical School
         * Wrote the documentation and code of a new R package to be used as a clinical prediction tool
         
         * Restructured the architecture of the new package for delivery into a Shiny web app
