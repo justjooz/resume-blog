@@ -52,20 +52,20 @@ experience:
         
   - title: 'Data Analytics & Quality Intern'
     company: 'Agency For Integrated Care'
-    company_url: 'https://www.instagram.com/yonah.creative/'
+    company_url: 'https://www.aic.sg/'
     location: 'Singapore'
     date_start: '2020-03-01'
     date_end: '2020-08-31'
     description: >-
-        * Successfully used R to automate the creation of 67 Nursing Home Reports with 1000+ graphs which led to a 90% decrease in report generation time
+        * Successfully used [R](https://www.r-project.org/) to automate the creation of 67 Nursing Home Reports with 1000+ graphs which led to a 90% decrease in report generation time
         
         * Performed extensive statistical research and testing on survey data
         
-        * Performed simple data cleaning, PivotTables and VLOOKUP functions in Excel
+        * Performed data cleaning, PivotTables and VLOOKUP functions in Excel
         
-        * Produced a resource guide and infographics in Canva for nursing homes to follow up on the reports received
+        * Produced a resource guide and infographics in [Canva](https://www.canva.com/) for nursing homes to follow up on the reports received
         
-        * Software utilised: R Programming Language, OfficeR package, ggplot2 package, dplyr package, Canva, Microsoft Excel, Microsoft PowerPoint
+        * Software utilised: [R](https://www.r-project.org/), [OfficeR](https://davidgohel.github.io/officer/) package, [ggplot2](https://ggplot2.tidyverse.org/) package, [dplyr](https://dplyr.tidyverse.org/) package, [Canva)](https://www.canva.com/), [Microsoft Excel](https://en.wikipedia.org/wiki/Microsoft_Excel), [Microsoft PowerPoint](https://en.wikipedia.org/wiki/Microsoft_PowerPoint)
 
         
   - title: 'Data Visualisation Intern'
