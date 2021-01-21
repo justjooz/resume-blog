@@ -31,7 +31,7 @@ experience:
     description: >-
         * Developed scripts to automate data wrangling in Python using Spyder
         
-        * Built a Python GUI app using tkinter for easy running of scripts
+        * Built a Python GUI app using [tkinter](https://en.wikipedia.org/wiki/Tkinter) for easy running of scripts
         
         * Tech used: [Python](https://www.python.org/), [Spyder](https://www.spyder-ide.org/), [Atom](https://atom.io/), [Tkinter](https://en.wikipedia.org/wiki/Tkinter), [Excel](https://en.wikipedia.org/wiki/Microsoft_Excel)
         
@@ -61,7 +61,7 @@ experience:
         
         * Performed extensive statistical research and testing on survey data
         
-        * Performed data cleaning, PivotTables and VLOOKUP functions in Excel
+        * Performed data cleaning, PivotTables and VLOOKUP functions in [Excel](https://en.wikipedia.org/wiki/Microsoft_Excel)
         
         * Produced a resource guide and infographics in [Canva](https://www.canva.com/) for nursing homes to follow up on the reports received
         
@@ -74,9 +74,9 @@ experience:
     date_start: '2020-04-01'
     date_end: '2020-08-31'
     description: >-
-        * Produced up to 50 posts of creative and encouraging content on Instagram
+        * Produced up to 50 posts of creative and encouraging content on [Instagram](https://www.instagram.com/yonah.creative/)
         
-        * Created art and creative content through various content creation platforms including Canva, Procreate, iMovie, and Adobe Photoshop Sketch
+        * Created multi-media digital content using 5 different creation platforms
         
         * Implemented Instagram growth hacking using hashtag strategies and appropriate niche targeting
         
@@ -84,9 +84,9 @@ experience:
         
         * Implemented basic principles of design and aesthetics to suit the feel of the page
         
-        * Published several posts of a self-coded blog using blogdown in R
+        * Published several posts of a [self-coded blog](https://yonah.netlify.app) using blogdown in R
         
-        * Tech used: Procreate, Canva, iMovie, Adobe Photoshop Sketch, Instagram
+        * Tech used: [Procreate](https://procreate.art/), [Canva](https://www.canva.com/), [iMovie](https://en.wikipedia.org/wiki/IMovie), [Adobe Photoshop Sketch, Instagram](https://apps.apple.com/us/app/adobe-photoshop-sketch/id839085644)
         
   - title: 'Data Visualisation Intern'
     company: 'Duke-NUS Medical School/SingHealth'
