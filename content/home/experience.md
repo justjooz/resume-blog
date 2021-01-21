@@ -65,8 +65,28 @@ experience:
         
         * Produced a resource guide and infographics in [Canva](https://www.canva.com/) for nursing homes to follow up on the reports received
         
-        * Software utilised: [R](https://www.r-project.org/), [OfficeR](https://davidgohel.github.io/officer/), [ggplot2](https://ggplot2.tidyverse.org/), [dplyr](https://dplyr.tidyverse.org/), [Canva)](https://www.canva.com/), [Microsoft Excel](https://en.wikipedia.org/wiki/Microsoft_Excel), [Microsoft PowerPoint](https://en.wikipedia.org/wiki/Microsoft_PowerPoint)
-
+        * Tech used: [R](https://www.r-project.org/), [OfficeR](https://davidgohel.github.io/officer/), [ggplot2](https://ggplot2.tidyverse.org/), [dplyr](https://dplyr.tidyverse.org/), [Canva](https://www.canva.com/), [Microsoft Excel](https://en.wikipedia.org/wiki/Microsoft_Excel), [Microsoft PowerPoint](https://en.wikipedia.org/wiki/Microsoft_PowerPoint)
+        
+  - title: 'Digital Creator'
+    company: 'Yonah Creative'
+    company_url: 'https://www.instagram.com/yonah.creative/'
+    location: 'Singapore'
+    date_start: '2020-04-01'
+    date_end: '2020-08-31'
+    description: >-
+        * Produced up to 50 posts of creative and encouraging content on Instagram
+        
+        * Created art and creative content through various content creation platforms including Canva, Procreate, iMovie, and Adobe Photoshop Sketch
+        
+        * Implemented Instagram growth hacking using hashtag strategies and appropriate niche targeting
+        
+        * Successfully grew a following of 117 followers within 4 months
+        
+        * Implemented basic principles of design and aesthetics to suit the feel of the page
+        
+        * Published several posts of a self-coded blog using blogdown in R
+        
+        * Tech used: Procreate, Canva, iMovie, Adobe Photoshop Sketch, Instagram
         
   - title: 'Data Visualisation Intern'
     company: 'Duke-NUS Medical School/SingHealth'
@@ -75,9 +95,11 @@ experience:
     date_start: '2019-12-01'
     date_end: '2020-02-29'
     description: >-
+        * View my recommendation letter [here](https://www.linkedin.com/in/justinchiacz/detail/treasury/position:1549444656/?entityUrn=urn%3Ali%3Afsd_profileTreasuryMedia%3A(ACoAABhdhBABslPNFcwNMpC8TCZgG3gQLDnlFNc%2C1588551251533)&section=position%3A1549444656&treasuryCount=1)
+        
         * Wrote the documentation and code of a new R package (AutoScore) to be used as a clinical prediction tool
         
-        * Restructured the architecture of the new package for delivery into a Shiny web app
+        * Restructured the architecture of the new package for delivery into a [Shiny web app](https://shiny.rstudio.com/)
         
         * Integrated backend package functions into the reactive Shiny app
         
@@ -87,5 +109,5 @@ experience:
         
         * Recommended relevant improvements to code
         
-        * View my recommendation letter [here](https://www.linkedin.com/in/justinchiacz/detail/treasury/position:1549444656/?entityUrn=urn%3Ali%3Afsd_profileTreasuryMedia%3A(ACoAABhdhBABslPNFcwNMpC8TCZgG3gQLDnlFNc%2C1588551251533)&section=position%3A1549444656&treasuryCount=1)
+        * Tech used: R, R Shiny, shinyapps.io
 ---
