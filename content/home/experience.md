@@ -33,7 +33,7 @@ experience:
         
         * Built a Python GUI app using tkinter for easy running of scripts
         
-        * Tech used: Python, Spyder, Atom, Tkinter, Excel
+        * Tech used: [Python](https://www.python.org/), [Spyder](https://www.spyder-ide.org/), [Atom](https://atom.io/), [Tkinter](https://en.wikipedia.org/wiki/Tkinter), [Excel](https://en.wikipedia.org/wiki/Microsoft_Excel)
         
   - title: 'Founding Author'
     company: 'Birding Outdoors'
@@ -44,11 +44,11 @@ experience:
     description: >-
         * Founded and authored the blogging site: [Birding Outdoors](https://www.birdingoutdoors.com)
         
-        * Performed research on Google SEO and niche research
+        * Performed SEO using Google SEO and niche research
         
-        * Self-designed blog logo on Canva and Photopea
+        * Self-designed blog logo on [Canva](https://www.canva.com/) and [Photopea](https://www.photopea.com/)
         
-        * Self-wrote more than 30 articles based on Google SEO on Wordpress
+        * Self-wrote more than 30 articles based on Google SEO on [Wordpress](https://wordpress.org/)
         
   - title: 'Data Analytics & Quality Intern'
     company: 'Agency For Integrated Care'
