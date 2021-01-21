@@ -56,16 +56,7 @@ experience:
     location: 'Singapore'
     date_start: '2020-03-01'
     date_end: '2020-08-31'
-    description: >-
-        * Successfully used R to automate the creation of 67 Nursing Home Reports with 1000+ graphs which led to a 90% decrease in report generation time
-        
-        * Performed extensive statistical research and testing on survey data
-        
-        * Performed simple data cleaning, PivotTables and VLOOKUP functions in Excel
-        
-        * Produced a resource guide and infographics in Canva for nursing homes to follow up on the reports received
-        
-        * Software utilised: R Programming Language, OfficeR package, ggplot2 package, dplyr package, Canva, Microsoft Excel, Microsoft PowerPoint
+
         
   - title: 'Data Visualisation Intern'
     company: 'Duke-NUS Medical School/SingHealth'
@@ -73,19 +64,5 @@ experience:
     location: 'Singapore'
     date_start: '2019-12-01'
     date_end: '2020-02-29'
-    description: >-
-    Health Services Research Centre, SingHealth/Duke-NUS Medical School
-        * Wrote the documentation and code of a new R package to be used as a clinical prediction tool
-        
-        * Restructured the architecture of the new package for delivery into a Shiny web app
-        
-        * Integrated backend package functions into the reactive Shiny app
-        
-        * Designed the front end UI of the app
-        
-        * Performed minor bug fixes and updates based on feedback given
-        
-        * Recommended relevant improvements to code
-        
-        * See recommendation letter [here](https://www.linkedin.com/in/justinchiacz/detail/treasury/position:1549444656/?entityUrn=urn%3Ali%3Afsd_profileTreasuryMedia%3A(ACoAABhdhBABslPNFcwNMpC8TCZgG3gQLDnlFNc%2C1588551251533)&section=position%3A1549444656&treasuryCount=1)     
+  
 ---
