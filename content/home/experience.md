@@ -99,7 +99,7 @@ experience:
         
         * Wrote the documentation and code of a new R package (AutoScore) to be used as a clinical prediction tool
         
-        * Restructured the architecture of the new package for delivery into a [Shiny web app](https://shiny.rstudio.com/)
+        * Restructured the architecture of the new package for delivery into a Shiny web app
         
         * Integrated backend package functions into the reactive Shiny app
         
@@ -109,5 +109,5 @@ experience:
         
         * Recommended relevant improvements to code
         
-        * Tech used: R, R Shiny, shinyapps.io
+        * Tech used: [R](https://www.r-project.org/), [R Shiny](https://shiny.rstudio.com/), [shinyapps.io](https://www.shinyapps.io/)
 ---
