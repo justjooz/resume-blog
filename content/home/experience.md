@@ -56,6 +56,16 @@ experience:
     location: 'Singapore'
     date_start: '2020-03-01'
     date_end: '2020-08-31'
+    description: >-
+        * Successfully used R to automate the creation of 67 Nursing Home Reports with 1000+ graphs which led to a 90% decrease in report generation time
+        
+        * Performed extensive statistical research and testing on survey data
+        
+        * Performed simple data cleaning, PivotTables and VLOOKUP functions in Excel
+        
+        * Produced a resource guide and infographics in Canva for nursing homes to follow up on the reports received
+        
+        * Software utilised: R Programming Language, OfficeR package, ggplot2 package, dplyr package, Canva, Microsoft Excel, Microsoft PowerPoint
 
         
   - title: 'Data Visualisation Intern'
