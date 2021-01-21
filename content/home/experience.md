@@ -84,7 +84,7 @@ experience:
         
         * Implemented basic principles of design and aesthetics to suit the feel of the page
         
-        * Published several posts of a [self-coded blog](https://yonah.netlify.app) using blogdown in R
+        * Published several posts of a [self-coded blog](https://yonah.netlify.app) using [blogdown](https://github.com/rstudio/blogdown) in R
         
         * Tech used: [Procreate](https://procreate.art/), [Canva](https://www.canva.com/), [iMovie](https://en.wikipedia.org/wiki/IMovie), [Adobe Photoshop Sketch, Instagram](https://apps.apple.com/us/app/adobe-photoshop-sketch/id839085644)
         
