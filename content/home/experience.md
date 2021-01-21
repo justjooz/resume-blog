@@ -65,7 +65,7 @@ experience:
         
         * Produced a resource guide and infographics in [Canva](https://www.canva.com/) for nursing homes to follow up on the reports received
         
-        * Software utilised: [R](https://www.r-project.org/), [OfficeR](https://davidgohel.github.io/officer/) package, [ggplot2](https://ggplot2.tidyverse.org/) package, [dplyr](https://dplyr.tidyverse.org/) package, [Canva)](https://www.canva.com/), [Microsoft Excel](https://en.wikipedia.org/wiki/Microsoft_Excel), [Microsoft PowerPoint](https://en.wikipedia.org/wiki/Microsoft_PowerPoint)
+        * Software utilised: [R](https://www.r-project.org/), [OfficeR](https://davidgohel.github.io/officer/), [ggplot2](https://ggplot2.tidyverse.org/), [dplyr](https://dplyr.tidyverse.org/), [Canva)](https://www.canva.com/), [Microsoft Excel](https://en.wikipedia.org/wiki/Microsoft_Excel), [Microsoft PowerPoint](https://en.wikipedia.org/wiki/Microsoft_PowerPoint)
 
         
   - title: 'Data Visualisation Intern'
@@ -75,7 +75,7 @@ experience:
     date_start: '2019-12-01'
     date_end: '2020-02-29'
     description: >-
-        * Wrote the documentation and code of a new R package to be used as a clinical prediction tool
+        * Wrote the documentation and code of a new R package (AutoScore) to be used as a clinical prediction tool
         
         * Restructured the architecture of the new package for delivery into a Shiny web app
         
