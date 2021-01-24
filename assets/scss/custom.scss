@@ -1,4 +1,16 @@
-.biography-title {
-  animation: flipInX 1s both;
-  animation-delay: 0.5s;
+#about {
+  
+  @keyframes yourfirstanimation {
+    0% {opacity: 0; color: red;}
+    100% {opacity: 1; color: black;}
+  }
+
+  .biography-title {
+    animation: yourfirstanimation 5s forwards;
+  }
+  
+  .main-content {
+  animation: slide-from-right 1s cubic-bezier(0.87, 0, 0.13, 1) forwards;
+  animation-delay: 100ms;
+}
 }
