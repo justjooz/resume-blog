@@ -1,3 +1,5 @@
+<!-- Current about widget -->
+
 {{ $ := .root }}
 {{ $page := .page }}
 
@@ -17,7 +19,16 @@
 {{ $avatar := ($person_page.Resources.ByType "image").GetMatch "*avatar*" }}
 {{ $avatar_shape := site.Params.avatar.shape | default "circle" }}
 
+<!-- stylesheet from https://animate.style -->
+<head>
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.0.0/animate.min.css"
+  />
+</head>
+
 <!-- About widget -->
+<div class="about-widget">
 <div class="row">
   <div class="col-12 col-lg-4">
     <div id="profile">
@@ -70,7 +81,7 @@
   <div class="col-12 col-lg-8">
 
     {{/* Only display widget title in explicit instances of about widget, not in author pages. */}}
-    {{ if and $page.Params.widget $page.Title }}<h1 class='biography-title'>{{ $page.Title | markdownify | emojify }}</h1>{{ end }}
+    {{ if and $page.Params.widget $page.Title }}<h1 class='about-name'>{{ $page.Title | markdownify | emojify }}</h1>{{ end }}
 
   <div class='main-content'>
     {{ $person_page.Content }}
