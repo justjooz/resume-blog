@@ -1,12 +1,4 @@
-#about {
-  
-  @keyframes slide-from-right {
-  0% {transform: translateX(150%)}
-  100% { transform: translateX(0%); }
-  }
-
 .biography-title {
-  animation: slide-from-right 1s forwards;
-}
-  
+  animation: flipInX 1s both;
+  animation-delay: 0.5s;
 }
