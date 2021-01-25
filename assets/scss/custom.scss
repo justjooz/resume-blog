@@ -1,27 +1,27 @@
   
 #about {
-  @-webkit-keyframes slide-from-right {
-    0% {-webkit-transform: translateX(150%);transform: translateX(150%)}
-    100% { -webkit-transform: translateX(0%); transform: translateX(0%); }
-  }
-  
-  @keyframes slide-from-right {
-    0% {-webkit-transform: translateX(150%);transform: translateX(150%)}
-    100% { -webkit-transform: translateX(0%); transform: translateX(0%); }
-  }
-  
-  .biography-title {
-    -webkit-animation: slide-from-right 1s cubic-bezier(0.87, 0, 0.13, 1) forwards;
-            animation: slide-from-right 1s cubic-bezier(0.87, 0, 0.13, 1) forwards;
-  }
+@-webkit-keyframes slide-from-right {
+  0% {-webkit-transform: translateX(150%);transform: translateX(150%)}
+  100% { -webkit-transform: translateX(0%); transform: translateX(0%); }
+}
 
-  .main-content {
-    -webkit-animation: slide-from-right 1s cubic-bezier(0.87, 0, 0.13, 1) forwards;
-            animation: slide-from-right 1s cubic-bezier(0.87, 0, 0.13, 1) forwards;
-    -webkit-animation-delay: 100ms;
-            animation-delay: 100ms;
-  }
- .card-simple {
+@keyframes slide-from-right {
+  0% {-webkit-transform: translateX(150%);transform: translateX(150%)}
+  100% { -webkit-transform: translateX(0%); transform: translateX(0%); }
+}
+
+.biography-title {
+  -webkit-animation: slide-from-right 1s cubic-bezier(0.87, 0, 0.13, 1) forwards;
+          animation: slide-from-right 1s cubic-bezier(0.87, 0, 0.13, 1) forwards;
+}
+
+.main-content {
+  -webkit-animation: slide-from-right 1s cubic-bezier(0.87, 0, 0.13, 1) forwards;
+          animation: slide-from-right 1s cubic-bezier(0.87, 0, 0.13, 1) forwards;
+  -webkit-animation-delay: 100ms;
+          animation-delay: 100ms;
+}
+  .card-simple {
   background: #fff;
   box-shadow: none;
   border: 0px solid rgba(0,0,0,.09);
@@ -29,27 +29,27 @@
   margin-top: 20px;
   padding: 15px 20px 15px 20px;
   transition: all 0.2s ease-out;
-}
+  }
 
-.card-simple:hover {
+  .card-simple:hover {
   box-shadow: 6px 6px 2px 0 rgba(33, 150, 186, 0.808);
-}
+  }
 
-.card-simple:first-of-type {
+  .card-simple:first-of-type {
   margin-top: 0;
-}
+  }
 
-.card-simple p.read-more {
+  .card-simple p.read-more {
   margin: 0;
-}
+  }
 
-.dark .card-simple {
+  .dark .card-simple {
   background: rgb(40, 42, 54);
   box-shadow: 0 1px 4px rgba(0,0,0,.04);
   border: 1px solid rgb(68, 71, 90);
-}
+  }
 
-.card {
+  .card {
   margin-bottom: 1.5rem;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -57,52 +57,52 @@
   box-shadow: none;
   transition: all 0.2s ease-out;
   border: 0px solid rgba(0,0,0,.09);
-}
+  }
 
-.card .card-image {
+  .card .card-image {
   display: block;
   position: relative;
   min-height: 100px;
-}
+  }
 
-.card h4 {
+  .card h4 {
   font-size: 0.9rem;
   font-weight: 700;
   line-height: 1.5;
   text-transform: none;
-}
+  }
 
-.card h4 code {
+  .card h4 code {
   font-size: 0.93rem;
   color: #D90429;
   background:  rgba(226, 226, 226, 0.315);
-}
+  }
 
-.card h4 a {
+  .card h4 a {
   color: #000;
   border-bottom: solid 1px transparent;
-}
+  }
 
-.card h4 a:hover {
+  .card h4 a:hover {
   color: #000;
   border-bottom: solid 1px #000;
   text-decoration: none;
-}
+  }
 
-.card .card-text {
+  .card .card-text {
   padding: 1rem;
-}
+  }
 
-.card .card-text p {
+  .card .card-text p {
   color: rgba(0,0,0,0.54);
   font-size: 0.75rem;
-}
+  }
 
-.card p:last-child {
+  .card p:last-child {
   margin-bottom: 0;
-}
+  }
 
-.card .card-image.hover-overlay:before {
+  .card .card-image.hover-overlay:before {
   display: block;
   position: absolute;
   left: 0;
@@ -113,9 +113,9 @@
   content: " ";
   opacity: 0;
   transition: all 0.2s ease-out;
-}
+  }
 
-.card .card-image.hover-overlay:after {
+  .card .card-image.hover-overlay:after {
   display: block;
   position: absolute;
   left: 0;
@@ -131,58 +131,58 @@
   font-size: 3rem;
   color: rgba(0,0,0,.09);
   border: 0px solid rgba(0,0,0,.09);
-}
+  }
 
-.card:hover {
+  .card:hover {
   box-shadow: 6px 6px 2px 0 rgba(33, 150, 186, 0.808);
-}
+  }
 
-.card:hover .card-image.hover-overlay:before {
+  .card:hover .card-image.hover-overlay:before {
   opacity: 0.8;
+  }
+
+  .card:hover .card-image.hover-overlay:after {
+  opacity: 0.6;
+  }
+
+@-webkit-keyframes slide-from-left {
+  0% {-webkit-transform: translateX(-150%);transform: translateX(-150%)}
+  100% { -webkit-transform: translateX(0%); transform: translateX(0%); }
 }
 
-.card:hover .card-image.hover-overlay:after {
-  opacity: 0.6;
+@keyframes slide-from-left {
+  0% {-webkit-transform: translateX(-150%);transform: translateX(-150%)}
+  100% { -webkit-transform: translateX(0%); transform: translateX(0%); }
 }
-  
-  @-webkit-keyframes slide-from-left {
-    0% {-webkit-transform: translateX(-150%);transform: translateX(-150%)}
-    100% { -webkit-transform: translateX(0%); transform: translateX(0%); }
-  }
-  
-  @keyframes slide-from-left {
-    0% {-webkit-transform: translateX(-150%);transform: translateX(-150%)}
-    100% { -webkit-transform: translateX(0%); transform: translateX(0%); }
-  }
-  
-  #profile {
-    -webkit-animation: slide-from-left 1s cubic-bezier(0.87, 0, 0.13, 1) forwards;
-            animation: slide-from-left 1s cubic-bezier(0.87, 0, 0.13, 1) forwards;
-  }
-  
-  @-webkit-keyframes fade-in {
-    0% {opacity: 0}
-    100% {opacity: 1}
-  }
-  
-  @keyframes fade-in {
-    0% {opacity: 0}
-    100% {opacity: 1}
-  }
-  
-  .interests-div {
-    opacity: 0;
-    -webkit-animation: fade-in 1s forwards;
-            animation: fade-in 1s forwards;
-    -webkit-animation-delay: 1s;
-            animation-delay: 1s;
-  }
-  
-  .education-div {
-    opacity: 0;
-    -webkit-animation: fade-in 1s forwards;
-            animation: fade-in 1s forwards;
-    -webkit-animation-delay: 1.5s;
-            animation-delay: 1.5s;
-  }
+
+#profile {
+  -webkit-animation: slide-from-left 1s cubic-bezier(0.87, 0, 0.13, 1) forwards;
+          animation: slide-from-left 1s cubic-bezier(0.87, 0, 0.13, 1) forwards;
+}
+
+@-webkit-keyframes fade-in {
+  0% {opacity: 0}
+  100% {opacity: 1}
+}
+
+@keyframes fade-in {
+  0% {opacity: 0}
+  100% {opacity: 1}
+}
+
+.interests-div {
+  opacity: 0;
+  -webkit-animation: fade-in 1s forwards;
+          animation: fade-in 1s forwards;
+  -webkit-animation-delay: 1s;
+          animation-delay: 1s;
+}
+
+.education-div {
+  opacity: 0;
+  -webkit-animation: fade-in 1s forwards;
+          animation: fade-in 1s forwards;
+  -webkit-animation-delay: 1.5s;
+          animation-delay: 1.5s;
+}
 }
