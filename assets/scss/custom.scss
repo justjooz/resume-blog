@@ -9,4 +9,9 @@
   animation: slide-from-right 1s forwards;
 }
   
+.main-content {
+  animation: slide-from-right 1s cubic-bezier(0.87, 0, 0.13, 1) forwards;
+  animation-delay: 100ms;
+}
+  
 }
