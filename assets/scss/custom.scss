@@ -1,6 +1,16 @@
   
 #about {
   
+  @-webkit-keyframes animate__fadeInDownBig {
+  0% {-webkit-transform: translateX(150%);transform: translateX(150%)}
+  100% { -webkit-transform: translateX(0%); transform: translateX(0%); }
+  }
+  
+  @keyframes animate__fadeInDownBig {
+  0% {-webkit-transform: translateX(150%);transform: translateX(150%)}
+  100% { -webkit-transform: translateX(0%); transform: translateX(0%); }
+  }
+  
   @-webkit-keyframes slide-from-right {
     0% {-webkit-transform: translateX(150%);transform: translateX(150%)}
     100% { -webkit-transform: translateX(0%); transform: translateX(0%); }
@@ -12,8 +22,8 @@
   }
   
   .biography-title {
-    -webkit-animation: slide-from-right 1s cubic-bezier(0.87, 0, 0.13, 1) forwards;
-            animation: slide-from-right 1s cubic-bezier(0.87, 0, 0.13, 1) forwards;
+    -webkit-animation: animate__fadeInDownBig 1s cubic-bezier(0.87, 0, 0.13, 1) forwards;
+            animation: animate__fadeInDownBig 1s cubic-bezier(0.87, 0, 0.13, 1) forwards;
   }
 
   .main-content {
