@@ -41,8 +41,8 @@
   .portrait-title {
   -webkit-animation: slide-from-left 1ms cubic-bezier(0.87, 0, 0.13, 1) forwards;
           animation: slide-from-left 1ms cubic-bezier(0.87, 0, 0.13, 1) forwards;
-  -webkit-animation-delay: 50ms;
-          animation-delay: 50ms;
+  -webkit-animation-delay: 100ms;
+          animation-delay: 100ms;
   }
   
   @-webkit-keyframes fade-in {
