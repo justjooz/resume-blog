@@ -17,6 +17,14 @@
 {{ $avatar := ($person_page.Resources.ByType "image").GetMatch "*avatar*" }}
 {{ $avatar_shape := site.Params.avatar.shape | default "circle" }}
 
+
+<head>
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+  />
+</head>
+
 <!-- About widget -->
 <div class="row">
   <div class="col-12 col-lg-4">
