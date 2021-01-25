@@ -1,12 +1,12 @@
 #about {
   
-  @keyframes yourfirstanimation {
-    0% {opacity: 0; color: red;}
-    100% {opacity: 1; color: black;}
-  }
+@keyframes slide-from-right {
+  0% {transform: translateX(150%)}
+  100% { transform: translateX(0%); }
+}
 
-  .biography-title {
-    animation: yourfirstanimation 5s forwards;
-  }
+.biography-title {
+  animation: slide-from-right 1s forwards;
+}
   
 }
