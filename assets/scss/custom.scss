@@ -39,8 +39,8 @@
   }
   
   .portrait-title {
-  -webkit-animation: slide-from-right 1s cubic-bezier(0.87, 0, 0.13, 1) forwards;
-          animation: slide-from-right 1s cubic-bezier(0.87, 0, 0.13, 1) forwards;
+  -webkit-animation: slide-from-left 1s cubic-bezier(0.87, 0, 0.13, 1) forwards;
+          animation: slide-from-left 1s cubic-bezier(0.87, 0, 0.13, 1) forwards;
   -webkit-animation-delay: 100ms;
           animation-delay: 100ms;
   }
