@@ -34,8 +34,8 @@
   }
   
   #profile {
-    -webkit-animation: slide-from-left 1ms cubic-bezier(0.87, 0, 0.13, 1) forwards;
-            animation: slide-from-left 1ms cubic-bezier(0.87, 0, 0.13, 1) forwards;
+    -webkit-animation: slide-from-left 1s cubic-bezier(0.87, 0, 0.13, 1) forwards;
+            animation: slide-from-left 1s cubic-bezier(0.87, 0, 0.13, 1) forwards;
   }
   
   @-webkit-keyframes fade-in {
