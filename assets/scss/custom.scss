@@ -38,13 +38,6 @@
             animation: slide-from-left 1ms cubic-bezier(0.87, 0, 0.13, 1) forwards;
   }
   
-  .portrait-title {
-  -webkit-animation: slide-from-left 1ms cubic-bezier(0.87, 0, 0.13, 1) forwards;
-          animation: slide-from-left 1ms cubic-bezier(0.87, 0, 0.13, 1) forwards;
-  -webkit-animation-delay: 100ms;
-          animation-delay: 100ms;
-  }
-  
   @-webkit-keyframes fade-in {
     0% {opacity: 0}
     100% {opacity: 1}
