@@ -1,7 +1,12 @@
 #about {
   
+  @keyframes yourfirstanimation {
+    0% {opacity: 0; color: red;}
+    100% {opacity: 1; color: black;}
+  }
+
   .biography-title {
-    color: red;
+    animation: yourfirstanimation 5s forwards;
   }
   
 }
